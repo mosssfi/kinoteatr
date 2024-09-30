@@ -399,4 +399,8 @@ body{
     .legend svg{
         margin-right: 9px;
     }
+    .session-date-item{
+        max-width: 70px;
+        max-height: 70px;
+    }
 }
